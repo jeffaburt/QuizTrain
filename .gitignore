@@ -2,3 +2,9 @@
 xcuserdata/
 *.pbxuser
 *.xcworkspace
+
+# SPM
+# 
+.build
+Packages/
+generated/*.xcodeproj

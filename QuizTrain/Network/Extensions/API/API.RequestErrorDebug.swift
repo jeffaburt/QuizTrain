@@ -1,3 +1,5 @@
+import Foundation
+
 extension API.RequestError: CustomDebugStringConvertible {
 
     public var debugDescription: String {
